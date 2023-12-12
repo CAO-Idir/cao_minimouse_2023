@@ -413,10 +413,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "minimouse"
+      "minimouse",
+      "Library_TP1_Empr"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "TP1_CAO"
     ]
   },
   "meta": {
